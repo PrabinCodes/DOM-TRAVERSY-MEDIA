@@ -1,0 +1,21 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn-dark {
+  background-color: black;
+  padding: 8px 16px;
+  color: white;
+}
+#box {
+  width: 300px;
+  height: 200px;
+  background-color: black;
+}
